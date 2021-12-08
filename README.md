@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-🌱 I’m currently an intern of NExT++ Lab @ National University of Singapore.
+🌱 I’m currently a senior Undergraduate @ USTC
 <!--
 **Wuyxin/Wuyxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
