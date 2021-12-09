@@ -2,7 +2,7 @@
 
 🌱 I’m currently a senior undergraduate @ USTC.
 
-🔭 I’m currently working on reliable ML models (especially for Graph Neural Networks) with a focus on their explainability (to facilitate human understanding), robustness (to data noise), and generalizability (to unseen data). 
+🔭 I’m currently working on reliable ML models (especially for Graph Neural Networks) with a focus on their explainability, robustness, and generalizability. 
 
 <!--
 **Wuyxin/Wuyxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
