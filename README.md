@@ -2,7 +2,7 @@
 
 🌱 I’m a senior undergraduate @ USTC. I will join Stanford CS as a PhD candidate.
 
-🔭 I’m currently working on reliable ML models (especially for Graph Neural Networks) with a focus on their explainability, robustness, and generalizability. 
+🔭 I’m currently working on reliable ML models with a focus on their explainability, robustness, and generalizability. 
 
 <!--
 **Wuyxin/Wuyxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
