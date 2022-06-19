@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-🌱 I’m a senior undergraduate @ USTC. I will join Stanford CS as a PhD candidate.
+🌱 I will join Stanford CS as a PhD candidate this fall.
 
 🔭 I’m currently working on reliable ML models with a focus on their explainability, robustness, and generalizability. 
 
