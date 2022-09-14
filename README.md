@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-🌱 I will join Stanford CS as a PhD candidate this fall.
+🌱 I am a PhD candidate in Stanford CS, starting from 2022 fall.
 
 🔭 I’m currently working on reliable ML models with a focus on their explainability, robustness, and generalizability. 
 
