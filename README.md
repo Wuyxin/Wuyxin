@@ -2,9 +2,7 @@
 
 😄 I am a PhD student in Stanford CS, starting from 2022 fall.
 
-🔭 I'm generally interested in trustworthy AI.
-
-🌱 I'm currently working on foundation and multimodal models, focusing on their generalization, adaptation, and interpretations.
+🌱 I'm currently working on foundation and multimodal models, focusing on their adaptation, generalization, and interpretations.
 
 <!--
 **Wuyxin/Wuyxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
