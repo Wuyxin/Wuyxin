@@ -1,8 +1,4 @@
-### Hi there 👋  
-
-I am a PhD student in Stanford CS, starting from 2022 fall.
-
-🌱 I'm currently working on large language models (LLMs), LLM agents, retrieval, and multimodal models.
+PhDing at Stanford CS, currently working on many things, including my mental health and sense of humor 🤣
 
 <!--
 **Wuyxin/Wuyxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
