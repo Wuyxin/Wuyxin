@@ -1,4 +1,4 @@
-PhDing at Stanford CS, currently working on many things, including my mental health and sense of humor 🤣
+PhDing at Stanford CS 
 
 <!--
 **Wuyxin/Wuyxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
